@@ -2,12 +2,19 @@
 	border-radius: 0px !important;
 	border:none !important;
 	text-transform: uppercase;
+	font-family: Montserrat, Helvetica, sans-serif;
 }
 projects img{
 	max-width:300px;
 }
 p, i {
 	text-transform: none;
+}
+h1, h2{
+	font-weight: 600;
+}
+h3, h4{
+	font-weight: 500;
 }
 .btn{
 	background-color: #f1a900;
@@ -16,7 +23,7 @@ p, i {
 	margin-top: 150px;
 }
 .jumbotron{
-	background-image: url(../img/Jellyfish.JPG)!important;
+	background-image: url(../images/Jellyfish.JPG)!important;
 	background-color: rgba(0, 0, 0, 0.6) !important;
 	background-size: cover;
 	height:500px;
