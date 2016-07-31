@@ -38,6 +38,9 @@ h3, h4{
 .navbar{
 	background-color: black;
 }
+.navbar a{
+	color:white !important;
+}
 img{
 	max-width:100%;
 }
