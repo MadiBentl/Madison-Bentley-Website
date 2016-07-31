@@ -1,4 +1,4 @@
-$(document).window(function(){
+$(document).ready(function(){
 	$("#btnShamrock").click(function(){
 		if ($( "#seeMoreShamrock" ).is(":visible")){
 			$("#seeMoreShamrock").hide("slow");
